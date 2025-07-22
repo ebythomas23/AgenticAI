@@ -16,4 +16,4 @@ faiss-cpu
 PyPDF
 langchain_google_genai
 langchain-pinecone
-
+youtube_search

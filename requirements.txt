@@ -21,3 +21,4 @@ langgraph
 chromadb
 duckduckgo_search
 yfinance
+langchain_experimental
